@@ -1,0 +1,8 @@
+E:\Users\kishan\source\repos\Conday7 assignmt9\bin\Debug\Conday7 assignmt9.exe.config
+E:\Users\kishan\source\repos\Conday7 assignmt9\bin\Debug\Conday7 assignmt9.exe
+E:\Users\kishan\source\repos\Conday7 assignmt9\bin\Debug\Conday7 assignmt9.pdb
+E:\Users\kishan\source\repos\Conday7 assignmt9\obj\Debug\Conday7 assignmt9.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\Conday7 assignmt9\obj\Debug\Conday7 assignmt9.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\Conday7 assignmt9\obj\Debug\Conday7 assignmt9.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\Conday7 assignmt9\obj\Debug\Conday7 assignmt9.exe
+E:\Users\kishan\source\repos\Conday7 assignmt9\obj\Debug\Conday7 assignmt9.pdb
